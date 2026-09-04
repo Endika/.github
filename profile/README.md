@@ -58,5 +58,4 @@ all written in C.
 ---
 
 [endika.github.io](https://endika.github.io/) ·
-[LinkedIn](https://www.linkedin.com/in/endika-i-0420a731/) ·
-[endika2@gmail.com](mailto:endika2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/endika-i-0420a731/)
