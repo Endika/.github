@@ -8,6 +8,9 @@ engines, firmware. Most of what I build is small, finished and running somewhere
 I would rather fix a bug in the project than work around it — container tooling, SQL
 parsers, font compilers and NFC firmware carry patches of mine.
 
+Lately: LLM agents that have to earn their keep. [Specster](https://github.com/Endika/specster)
+turns GitHub issues into specs and reviewed PRs, and measures what every run costs.
+
 Python · Go · TypeScript · C
 
 [endika.github.io](https://endika.github.io/) ·
